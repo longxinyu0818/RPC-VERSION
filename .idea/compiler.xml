@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RPC-0" />
         <module name="RPC-1" />
+        <module name="RPC-2" />
       </profile>
     </annotationProcessing>
   </component>
