@@ -12,6 +12,7 @@
         <module>RPC-0</module>
         <module>RPC-1</module>
         <module>RPC-2</module>
+        <module>RPC-3</module>
     </modules>
 
     <properties>
@@ -24,6 +25,11 @@
             <artifactId>lombok</artifactId>
             <version>1.16.18</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.51.Final</version>
         </dependency>
     </dependencies>
 

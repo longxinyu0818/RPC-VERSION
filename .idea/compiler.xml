@@ -10,6 +10,7 @@
         <module name="RPC-0" />
         <module name="RPC-1" />
         <module name="RPC-2" />
+        <module name="RPC-3" />
       </profile>
     </annotationProcessing>
   </component>
